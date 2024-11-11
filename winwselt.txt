@@ -1,0 +1,2 @@
+https://supabase.com/docs/guides/getting-started/quickstarts/reactjs
+fi hedha wselt l start app
